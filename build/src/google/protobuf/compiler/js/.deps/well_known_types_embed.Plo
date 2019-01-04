@@ -1,0 +1,32 @@
+google/protobuf/compiler/js/well_known_types_embed.lo: \
+  ../../src/google/protobuf/compiler/js/well_known_types_embed.cc \
+  ../../src/google/protobuf/compiler/js/well_known_types_embed.h \
+  /home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../lib/gcc/arm-linux-androideabi/4.9.x/../../../../include/c++/4.9.x/stddef.h \
+  /home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../lib/gcc/arm-linux-androideabi/4.9.x/../../../../include/c++/4.9.x/__config \
+  /home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../sysroot/usr/include/features.h \
+  /home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../sysroot/usr/include/sys/cdefs.h \
+  /home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../sysroot/usr/include/android/api-level.h \
+  /home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../sysroot/usr/include/android/versioning.h \
+  /home/liutao/ndk_toolchain/arm-linux-androideabi/lib64/clang/7.0.2/include/stddef.h \
+  /home/liutao/ndk_toolchain/arm-linux-androideabi/lib64/clang/7.0.2/include/__stddef_max_align_t.h \
+  /home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../lib/gcc/arm-linux-androideabi/4.9.x/../../../../include/c++/4.9.x/__nullptr
+
+../../src/google/protobuf/compiler/js/well_known_types_embed.h:
+
+/home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../lib/gcc/arm-linux-androideabi/4.9.x/../../../../include/c++/4.9.x/stddef.h:
+
+/home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../lib/gcc/arm-linux-androideabi/4.9.x/../../../../include/c++/4.9.x/__config:
+
+/home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../sysroot/usr/include/features.h:
+
+/home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../sysroot/usr/include/sys/cdefs.h:
+
+/home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../sysroot/usr/include/android/api-level.h:
+
+/home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../sysroot/usr/include/android/versioning.h:
+
+/home/liutao/ndk_toolchain/arm-linux-androideabi/lib64/clang/7.0.2/include/stddef.h:
+
+/home/liutao/ndk_toolchain/arm-linux-androideabi/lib64/clang/7.0.2/include/__stddef_max_align_t.h:
+
+/home/liutao/ndk_toolchain/arm-linux-androideabi/bin/../lib/gcc/arm-linux-androideabi/4.9.x/../../../../include/c++/4.9.x/__nullptr:
